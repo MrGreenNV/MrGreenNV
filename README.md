@@ -1,7 +1,10 @@
 ### Привет, моё имя Николай! 👋
 #### Я Java developer
 
+
 - 🌱 В настоящее время я учусь в **[МИИТ (РУТ)](https://www.miit.ru/)** на третьем курсе по специальности: *Программное обеспечение средств вычислительной техники и автоматизированных систем*
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGreenMV&show_icons=true)  
 
 <!--
 **MrGreenNV/MrGreenNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
