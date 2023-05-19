@@ -6,6 +6,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGreenNV&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrGreenNV)  
+
 <!--
 **MrGreenNV/MrGreenNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
